@@ -2,7 +2,7 @@
 This API Allow reseller to start their own VTU Business and Developer for their projects  Fast and Reliable API End-point
 
   <h2>Verify API Key Endpoint</h2>
-    <a href="https://emobilesms.com/api/verify/apikey/2034caa3901d0858fc5fadfaf06f046b385ebcff">
+    <a href="https://emobilesms.com/api/verify/apikey/2034caa39xxxxxxxxxxxxxxxxxxxxxxxxx">
         https://emobilesms.com/api/verify/apikey/2034caa39xxxxxxxxxxxxxxxxxxxxxxxxx
     </a>
 
