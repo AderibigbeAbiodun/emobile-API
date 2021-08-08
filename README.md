@@ -3,7 +3,7 @@ This API Allow reseller to start their own VTU Business and Developer for their 
 
   <h2>Verify API Key Endpoint</h2>
     <a href="https://emobilesms.com/api/verify/apikey/2034caa3901d0858fc5fadfaf06f046b385ebcff">
-        https://emobilesms.com/api/verify/apikey/2034caa3901d0858fc5fadfaf06f046b385ebcff
+        https://emobilesms.com/api/verify/apikey/2034caa39xxxxxxxxxxxxxxxxxxxxxxxxx
     </a>
 
   <h3>RESPONSE</h3>
@@ -19,8 +19,8 @@ This API Allow reseller to start their own VTU Business and Developer for their 
 
 
 <h2>Login Endpoint</h2>
-<a href="https://emobilesms.com/api/login/apikey/2034caa3901d0858fc5fadfaf06f046b385ebcff/email/aderibigbebiodun@gmail.com/password/8307637653">
-  https://emobilesms.com/api/login/apikey/2034caa3901d0858fc5fadfaf06f046b385ebcff/email/aderibigbebiodun@gmail.com/password/8307637653
+<a href="https://emobilesms.com/api/login/apikey/2034caa39xxxxxxxxxxxxxxxxxxxxxxxxx/email/mail@exmple.com/password/12345">
+  https://emobilesms.com/api/login/apikey/2034caa39xxxxxxxxxxxxxxxxxxxxxxxxx/email/mail@exmple.com/password/12345
 </a>
 
   <h3>RESPONSE</h3>
@@ -28,7 +28,7 @@ This API Allow reseller to start their own VTU Business and Developer for their 
     {
       "response":[
       {
-        "usertoken":"610080EC9D3C3",
+        "usertoken":"610D7xxxxxxx",
         "status":200,
         "result":"Successfully"
        }]
@@ -37,8 +37,8 @@ This API Allow reseller to start their own VTU Business and Developer for their 
   
 
 <h2>Buy Airtime Endpoint</h2>
-<a href="https://emobilesms.com/api/airtime/apikey/2034caa3901d0858fc5fadfaf06f046b385ebcff/usertoken/610080EC9D3C3/network/Airtel/amount/100/recipient/08120204950">
-  https://emobilesms.com/api/airtime/apikey/2034caa3901d0858fc5fadfaf06f046b385ebcff/usertoken/610080EC9D3C3/network/Airtel/amount/100/recipient/08120204950
+<a href="https://emobilesms.com/api/airtime/apikey/2034caa39xxxxxxxxxxxxxxxxxxxxxxxxx/usertoken/61008xxxxxx/network/MTN/amount/100/recipient/080123456789">
+  https://emobilesms.com/api/airtime/apikey/2034caa39xxxxxxxxxxxxxxxxxxxxxxxxx/usertoken/61008xxxxxx/network/MTN/amount/100/recipient/080123456789
 </a>
 
   <h3>RESPONSE</h3>
@@ -46,7 +46,7 @@ This API Allow reseller to start their own VTU Business and Developer for their 
     {
       "response":[
       {
-        "refno":92988827,
+        "refno":929xxxxxxxx,
         "status":200,
         "result":"Successfully"
        }]
@@ -54,8 +54,8 @@ This API Allow reseller to start their own VTU Business and Developer for their 
   </pre>
   
   <h2>Buy Data Bundle Endpoint</h2>
-  <a href="https://emobilesms.com/api/data/apikey/2034caa3901d0858fc5fadfaf06f046b385ebcff/usertoken/610080EC9D3C3/network/MTN/plan/610080EC9D3C3/recipient/08120204950">
-    https://emobilesms.com/api/data/apikey/2034caa3901d0858fc5fadfaf06f046b385ebcff/usertoken/610080EC9D3C3/network/MTN/plan/610080EC9D3C3/recipient/08120204950
+  <a href="https://emobilesms.com/api/data/apikey/2034caa39xxxxxxxxxxxxxxxxxxxxxxxxx/usertoken/6100xxxxxxx/network/MTN/plan/6100xxxxxxx/recipient/080123456789">
+    https://emobilesms.com/api/data/apikey/2034caa39xxxxxxxxxxxxxxxxxxxxxxxxx/usertoken/6100xxxxxxx/network/MTN/plan/6100xxxxxxx/recipient/080123456789
   </a>
   
   <h3>RESPONSE</h3>
@@ -63,7 +63,7 @@ This API Allow reseller to start their own VTU Business and Developer for their 
     {
       "response":[
       {
-        "refno":"92988827",
+        "refno":"929xxxxxx",
         "status":200,
         "result":"Successfully"
        }]
@@ -71,8 +71,8 @@ This API Allow reseller to start their own VTU Business and Developer for their 
   </pre>
   
     <h2>Check Balance Endpoint</h2>
-  <a href="https://emobilesms.com/api/balance/apikey/2034caa3901d0858fc5fadfaf06f046b385ebcff/usertoken/610080EC9D3C3/">
-  https://emobilesms.com/api/balance/apikey/2034caa3901d0858fc5fadfaf06f046b385ebcff/usertoken/610080EC9D3C3/
+  <a href="https://emobilesms.com/api/balance/apikey/2034caa39xxxxxxxxxxxxxxxxxxxxxxxxx/usertoken/6100xxxxxxxx/">
+    https://emobilesms.com/api/balance/apikey/2034caa39xxxxxxxxxxxxxxxxxxxxxxxxx/usertoken/6100xxxxxxxx/
   </a>
   
   <h3>RESPONSE</h3>
