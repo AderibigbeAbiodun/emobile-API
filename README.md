@@ -70,7 +70,7 @@ This API Allow reseller to start their own VTU Business and Developer for their 
      }
   </pre>
   
-    <h2>Check Balance Endpoint</h2>
+   <h2>Check Balance Endpoint</h2>
   <a href="https://emobilesms.com/api/balance/apikey/2034caa39xxxxxxxxxxxxxxxxxxxxxxxxx/usertoken/6100xxxxxxxx/">
     https://emobilesms.com/api/balance/apikey/2034caa39xxxxxxxxxxxxxxxxxxxxxxxxx/usertoken/6100xxxxxxxx/
   </a>
