@@ -63,11 +63,30 @@ This API Allow reseller to start their own VTU Business and Developer for their 
     {
       "response":[
       {
-        "refno":92988827,
+        "refno":"92988827",
         "status":200,
         "result":"Successfully"
        }]
      }
   </pre>
+  
+    <h2>Check Balance Endpoint</h2>
+  <a href="https://emobilesms.com/api/balance/apikey/2034caa3901d0858fc5fadfaf06f046b385ebcff/usertoken/610080EC9D3C3/">
+  https://emobilesms.com/api/balance/apikey/2034caa3901d0858fc5fadfaf06f046b385ebcff/usertoken/610080EC9D3C3/
+  </a>
+  
+  <h3>RESPONSE</h3>
+  <pre>
+    {
+      "response":[
+      {
+        "wallet":"4661.5",
+        "sms":"5000",
+        "status":200,
+        "result":"Successfully"
+       }]
+     }
+  </pre>
+ 
 
 
