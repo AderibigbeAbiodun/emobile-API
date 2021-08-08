@@ -52,7 +52,22 @@ This API Allow reseller to start their own VTU Business and Developer for their 
        }]
      }
   </pre>
-
-
+  
+  <h2>Buy Data Bundle Endpoint</h2>
+  <a href="https://emobilesms.com/api/data/apikey/2034caa3901d0858fc5fadfaf06f046b385ebcff/usertoken/610080EC9D3C3/network/MTN/plan/610080EC9D3C3/recipient/08120204950">
+    https://emobilesms.com/api/data/apikey/2034caa3901d0858fc5fadfaf06f046b385ebcff/usertoken/610080EC9D3C3/network/MTN/plan/610080EC9D3C3/recipient/08120204950
+  </a>
+  
+  <h3>RESPONSE</h3>
+  <pre>
+    {
+      "response":[
+      {
+        "refno":92988827,
+        "status":200,
+        "result":"Successfully"
+       }]
+     }
+  </pre>
 
 
