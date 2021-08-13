@@ -123,7 +123,7 @@ https://emobilesms.com/api/login-sub-user/apikey/2034caa39xxxxxxxxxxxxxxxxxxxxxx
   </pre>
   
    <h2>Reseller Get Single Users Endpoint</h2>
-  <a href="  https://emobilesms.com/api/user-data/apikey/2034caa39xxxxxxxxxxxxxxxxxxxxxxxxx/usertoken/6100xxxxxxxx/userid/6100xxxxxxxx">
+  <a href="https://emobilesms.com/api/user-data/apikey/2034caa39xxxxxxxxxxxxxxxxxxxxxxxxx/usertoken/6100xxxxxxxx/userid/6100xxxxxxxx">
   https://emobilesms.com/api/user-data/apikey/2034caa39xxxxxxxxxxxxxxxxxxxxxxxxx/usertoken/6100xxxxxxxx/userid/6100xxxxxxxx
   </a>
   
