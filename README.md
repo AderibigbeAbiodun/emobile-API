@@ -152,5 +152,33 @@ https://emobilesms.com/api/login-sub-user/apikey/2034caa39xxxxxxxxxxxxxxxxxxxxxx
         }
   </pre>
   
-
+  <h2>Reseller Login Users Endpoint</h2>
+  <a href="https://emobilesms.com/api/get-users/apikey/2034caa39xxxxxxxxxxxxxxxxxxxxxxxxx/usertoken/6100xxxxxxxx">
+    https://emobilesms.com/api/get-users/apikey/2034caa39xxxxxxxxxxxxxxxxxxxxxxxxx/usertoken/6100xxxxxxxx
+  </a>
+  
+  <h3>RESPONSE</h3>
+  <pre>
+    {
+      "response":[
+      {
+          "userid":"1",
+          "usertoken":"xxxxxxxx",
+          "fullname":"xxxxxx xxxx",
+          "email":"xxxxxxxx@xxxx.xxx",
+          "phone":"xxxxxxxxxx",
+          "state":"xxx",
+          "address":"xxxxxxx",
+          "country":"xxxxxxxx",
+          "currency":"x",
+          "account_type":"xxxxxx",
+          "accountstatus":"xxxxx",
+          "wallet_amount":"xxx",
+          "sms_bal":"xxx",
+          "createdate":"xxxxxxxx",
+          "status":200,
+          "result":"Successfully"
+          }]
+        }
+  </pre>
 
