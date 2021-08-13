@@ -152,7 +152,7 @@ https://emobilesms.com/api/login-sub-user/apikey/2034caa39xxxxxxxxxxxxxxxxxxxxxx
         }
   </pre>
   
-  <h2>Reseller Login Users Endpoint</h2>
+  <h2>Reseller Get All Users Endpoint</h2>
   <a href="https://emobilesms.com/api/get-users/apikey/2034caa39xxxxxxxxxxxxxxxxxxxxxxxxx/usertoken/6100xxxxxxxx">
     https://emobilesms.com/api/get-users/apikey/2034caa39xxxxxxxxxxxxxxxxxxxxxxxxx/usertoken/6100xxxxxxxx
   </a>
