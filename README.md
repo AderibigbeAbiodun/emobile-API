@@ -115,7 +115,7 @@ https://emobilesms.com/api/login-sub-user/apikey/2034caa39xxxxxxxxxxxxxxxxxxxxxx
     {
       "response":[
       {
-        "usertoken":"610A5AEA184EF",
+        "session":"610AXXXXXX",
         "status":200,
         "result":"Successfully"
        }]
