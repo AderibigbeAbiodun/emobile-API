@@ -87,6 +87,21 @@ This API Allow reseller to start their own VTU Business and Developer for their 
        }]
      }
   </pre>
- 
-
+  
+  
+  <h2>Reseller Register New Users Endpoint</h2>
+  <a href="https://emobilesms.com/api/register/apikey/2034caa39xxxxxxxxxxxxxxxxxxxxxxxxx/usertoken/6100xxxxxxxx/email/xxxxxxxx@xxx.xxx/username/xxxxx xxx/password/xxxxxx/country/xxxxxx/currency/xxxx">
+  https://emobilesms.com/api/register/apikey/2034caa39xxxxxxxxxxxxxxxxxxxxxxxxx/usertoken/6100xxxxxxxx/email/xxxxxxxx@xxx.xxx/username/xxxxx xxx/password/xxxxxx/country/xxxxxx/currency/xxxx
+  </a>
+  
+  <h3>RESPONSE</h3>
+  <pre>
+    {
+      "response":[
+      {
+        "status":200,
+        "result":"Successfully"
+       }]
+     }
+  </pre>
 
